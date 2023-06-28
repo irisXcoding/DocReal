@@ -3,7 +3,6 @@ DocReal: Robust Document Dewarping of Real-Life Images via  Attention-Enhanced C
 
 # DocReal Dataset
 You can download data from:  </br>
-+ Google Drive: </br>
-password:  </br>
-+ Baidu: https://pan.baidu.com/s/1EZIAwV9vQj0qm1rI0FmZiA  </br>
-password: 7dko </br>
++ Google Drive: [ https://drive.google.com/file/d/1fxdUMMCQoTxc-THv1LmO-Ye8XjMyPK--/view?usp=sharing](https://drive.google.com/file/d/1fxdUMMCQoTxc-THv1LmO-Ye8XjMyPK--/view?usp=drive_link)</br>
++ Baidu: [https://commonbox.vivo.xyz/s/WtKePCgXz8t] (https://commonbox.vivo.xyz/s/WtKePCgXz8t) </br>
+password: 280532 </br>
