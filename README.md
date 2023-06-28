@@ -4,14 +4,12 @@ DocReal: Robust Document Dewarping of Real-Life Images via  Attention-Enhanced C
 # DocReal Dataset
 You can download data from:  </br>
 + Google Drive: [ https://drive.google.com/file/d/1fxdUMMCQoTxc-THv1LmO-Ye8XjMyPK--/view?usp=sharing](https://drive.google.com/file/d/1fxdUMMCQoTxc-THv1LmO-Ye8XjMyPK--/view?usp=drive_link)</br>
-+ Baidu: [ https://commonbox.vivo.xyz/s/WtKePCgXz8t](https://commonbox.vivo.xyz/s/WtKePCgXz8t)</br>
-password: 280532 </br>
++ Baidu: [ https://commonbox.vivo.xyz/s/WtKePCgXz8t](https://commonbox.vivo.xyz/s/WtKePCgXz8t)  password: 280532 </br>
 
 # Rectified Results
 Due to commercial restrictions, we are unable to provide the source code currently. Instead, we will provide a demo API in the future, allowing for further exploration and optimization by the research community. </br>
 You can obtain our rectified results for DocUNet and DocReal through the following link. </br>
 + Google Drive: [https://drive.google.com/file/d/1i0LMai40OBl-tit92KKFNg9CnXXKZv6d/view?usp=sharing](https://drive.google.com/file/d/1i0LMai40OBl-tit92KKFNg9CnXXKZv6d/view?usp=drive_link)</br>
-+ Baidu: [https://commonbox.vivo.xyz/s/m9aN4MtvtoC](https://commonbox.vivo.xyz/s/m9aN4MtvtoC)</br>
-password: 384466 </br>
++ Baidu: [https://commonbox.vivo.xyz/s/m9aN4MtvtoC](https://commonbox.vivo.xyz/s/m9aN4MtvtoC)  password: 384466 </br>
 
 
